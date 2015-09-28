@@ -8,5 +8,6 @@ As far as I know, openssl, crypto++ and other crytion libraries offer support of
 
 This RC5 template class is an implementation of [Rivest's paper][2], and it supports fully 32/64/128-bit block length.
 
+------
 [1]: https://en.wikipedia.org/wiki/RC5
-[2]: http://people.csail.mit.edu/rivest/Rivest-rc5rev.pdf Rivests's revised paper describing the cipher
+[2]: http://people.csail.mit.edu/rivest/Rivest-rc5rev.pdf "Rivests's revised paper describing the cipher"
